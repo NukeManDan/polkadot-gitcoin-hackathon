@@ -23,7 +23,7 @@ TODO
 https://gist.github.com/NukeManDan/946267004d885b8d1a051ca2816de016
 
 #### [BEGINNER CHALLENGE] Set an identity on Kusama or Polkadot's development version
-TODO
+https://gist.github.com/NukeManDan/25c62bdf6fd3fb13f97cd911dc038e80
 
 ---
 
