@@ -49,6 +49,8 @@ TODO
 
 ---
 
-#### 
+#### [ADVANCED CHALLENGE] Smart contracts - Build a charity raffle
+
+*INVITED* TODO, started work
 
 #### 
