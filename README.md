@@ -30,3 +30,25 @@ https://gist.github.com/NukeManDan/25c62bdf6fd3fb13f97cd911dc038e80
 #### [INTERMEDIATE CHALLENGE] FRAME Identity: Set an identity on a local --dev chain
 
 TODO
+
+#### [INTERMEDIATE CHALLENGE] Smart contracts - write an ERC-20 smart contract with ink!
+
+TODO
+
+#### [INTERMEDIATE CHALLENGE] FRAME Multisig
+
+TODO
+
+#### [INTERMEDIATE CHALLENGE] FRAME Development
+
+TODO
+
+#### [INTERMEDIATE CHALLENGE] Forkless Upgrades
+
+TODO
+
+---
+
+#### 
+
+#### 
