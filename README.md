@@ -14,7 +14,7 @@ https://gist.github.com/NukeManDan/3875a5610bd40aff364ad9fe5121a91c
 https://westend.subscan.io/extrinsic/2666024-2
 
 #### [BEGINNER CHALLENGES] Front-End Javascript
-TODO
+https://github.com/NukeManDan/HW-basic-blockinfo
 
 #### [BEGINNER CHALLENGES] Back-End Javascript
 TODO
