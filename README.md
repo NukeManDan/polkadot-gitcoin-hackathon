@@ -17,7 +17,7 @@ https://westend.subscan.io/extrinsic/2666024-2
 https://github.com/NukeManDan/HW-basic-blockinfo
 
 #### [BEGINNER CHALLENGES] Back-End Javascript
-TODO
+https://github.com/NukeManDan/HW-js-api
 
 #### [BEGINNER CHALLENGE] Run a Kusama or Polkadot node and add it to Telemetry
 https://gist.github.com/NukeManDan/946267004d885b8d1a051ca2816de016
