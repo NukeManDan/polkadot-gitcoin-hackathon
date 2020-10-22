@@ -29,7 +29,8 @@ https://gist.github.com/NukeManDan/25c62bdf6fd3fb13f97cd911dc038e80
 
 #### [INTERMEDIATE CHALLENGE] FRAME Identity: Set an identity on a local --dev chain
 
-TODO
+https://gist.github.com/NukeManDan/7b8eedf759fab65ae687142c33b68f54
+
 
 #### [INTERMEDIATE CHALLENGE] Smart contracts - write an ERC-20 smart contract with ink!
 
