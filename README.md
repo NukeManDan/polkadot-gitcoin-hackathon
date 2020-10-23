@@ -50,8 +50,22 @@ TODO
 
 ---
 
-#### [ADVANCED CHALLENGE] Smart contracts - Build a charity raffle
+#### [[ADVANCED CHALLENGE] Smart contracts - Build a charity raffle](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/3/100023929)
 
 *INVITED* TODO, started work
 
-#### 
+#### [[ADVANCED CHALLENGE] Build a dApp](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/2/100023928)
+
+TODO
+
+#### [[ADVANCED CHALLENGE] Smart contracts - Build a charity raffle](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/3/100023929)
+
+TODO
+
+#### [[ADVANCED CHALLENGE] REST APIs - Build a transaction fee estimator](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/4/100023930)
+
+TODO
+
+##### [[ADVANCED CHALLENGE] REST APIs - Read an account's pending payouts](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/5/100023931)
+
+TODO
