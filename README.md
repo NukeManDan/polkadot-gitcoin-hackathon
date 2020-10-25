@@ -46,7 +46,7 @@ TODO
 
 #### [INTERMEDIATE CHALLENGE] Forkless Upgrades
 
-TODO
+https://gist.github.com/NukeManDan/a8578dbf85784e4c723dde5ebe9ef0df
 
 ---
 
@@ -66,6 +66,6 @@ TODO
 
 TODO
 
-##### [[ADVANCED CHALLENGE] REST APIs - Read an account's pending payouts](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/5/100023931)
+#### [[ADVANCED CHALLENGE] REST APIs - Read an account's pending payouts](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/5/100023931)
 
 TODO
