@@ -38,7 +38,7 @@ TODO
 
 #### [INTERMEDIATE CHALLENGE] FRAME Multisig
 
-TODO
+https://github.com/NukeManDan/fe-template-w-multisig
 
 #### [INTERMEDIATE CHALLENGE] FRAME Development
 
