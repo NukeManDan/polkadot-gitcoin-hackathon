@@ -42,7 +42,7 @@ https://github.com/NukeManDan/fe-template-w-multisig
 
 #### [INTERMEDIATE CHALLENGE] FRAME Development
 
-TODO
+https://github.com/NukeManDan/frame-dev
 
 #### [INTERMEDIATE CHALLENGE] Forkless Upgrades
 
