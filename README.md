@@ -34,7 +34,8 @@ https://gist.github.com/NukeManDan/7b8eedf759fab65ae687142c33b68f54
 
 #### [INTERMEDIATE CHALLENGE] Smart contracts - write an ERC-20 smart contract with ink!
 
-TODO
+See the readme for proof and instructions:
+https://github.com/NukeManDan/ch-contract/
 
 #### [INTERMEDIATE CHALLENGE] FRAME Multisig
 
