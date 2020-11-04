@@ -1,5 +1,9 @@
 # NukeManDan's [`Hello World`](https://gitcoin.co/hackathon/polkadot) Submissions
 
+> Addresses for prizes
+> DOT: `5D9qhH2Lcje1kt6np6m525KLsGiwFMwdGfLSXZyvLNe9RYLW`
+> KSM: `E5kZc3mjCGGUvherrnM5XELPfdSE6wZAXrVu5EshUX6x7NC`
+
 
 ## Polkadot Challenges
 
@@ -7,7 +11,7 @@
 
 #### [EXTRA PRIZE] Complete 18 or more challenges - 150 DOT for the first 50 valid submissions
 
-See Below for all completed :grin: :poin_down:
+See Below for all completed :grin: :point_down:
 
 ---
 
