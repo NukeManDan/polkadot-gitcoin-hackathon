@@ -1,8 +1,19 @@
-# NukeManDan's `Hello World` Submissions
-> https://gitcoin.co/hackathon/polkadot
+# NukeManDan's [`Hello World`](https://gitcoin.co/hackathon/polkadot) Submissions
+
+
+## Polkadot Challenges
+
+---
 
 #### [EXTRA PRIZE] Complete 18 or more challenges - 150 DOT for the first 50 valid submissions
-In progress...
+
+See Below for all completed :grin: :poin_down:
+
+---
+
+### Beginner (7/7)
+
+---
 
 #### [BEGINNER CHALLENGE] Launch a local Substrate development chain 
 https://gist.github.com/NukeManDan/3c1156c6acfdeb1d63c97befe007ecb8
@@ -24,6 +35,10 @@ https://gist.github.com/NukeManDan/946267004d885b8d1a051ca2816de016
 
 #### [BEGINNER CHALLENGE] Set an identity on Kusama or Polkadot's development version
 https://gist.github.com/NukeManDan/25c62bdf6fd3fb13f97cd911dc038e80
+
+---
+
+### Intermediate (5/5)
 
 ---
 
@@ -51,6 +66,10 @@ https://gist.github.com/NukeManDan/a8578dbf85784e4c723dde5ebe9ef0df
 
 ---
 
+### Advanced (0/5)
+
+---
+
 #### [[ADVANCED CHALLENGE] Smart contracts - Build a charity raffle](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/3/100023929)
 
 *INVITED* TODO, started work
@@ -68,5 +87,60 @@ TODO
 TODO
 
 #### [[ADVANCED CHALLENGE] REST APIs - Read an account's pending payouts](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/5/100023931)
+
+TODO
+
+---
+
+## Ecosystem Challenges
+
+---
+
+### Beginner (1/2)
+
+---
+
+#### [[BEGINNER] (Plasm) Deploying Solidity Contract on Plasm Network V1](https://gitcoin.co/issue/staketechnologies/hello-world-by-polkadot/6/100023960)
+
+https://gist.github.com/NukeManDan/9a4ad042ab4b22661184c47c18edb76e
+
+#### [[BEGINNER] (Phala) Build and Run a Local Phala Network](https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/1/100023945)
+
+TODO
+
+
+---
+
+### Intermediate (0/5)
+
+---
+
+#### [[INTERMEDIATE] (Plasm) Deploying An Auction Solidity Contract on Plasm Network](https://gitcoin.co/issue/staketechnologies/hello-world-by-polkadot/5/100023959)
+
+TODO
+
+#### [[INTERMEDIATE] (Acala) Enable NFT Support](https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/1/100023951)
+
+TODO
+
+#### [[INTERMEDIATE] (Acala) Enable Multi-Currency Support](https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/2/100023952)
+
+TODO
+
+#### [[INTERMEDIATE] (Moonbeam) Deploy on Moonbase Alpha using Truffle](https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/1/100023953)
+
+TODO 
+
+#### [[INTERMEDIATE] (Moonbeam) Using Remix and MetaMask on Moonbeam](https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/1/100023952)
+
+TODO
+
+---
+
+### Advanced (0/1)
+
+---
+
+#### [[ADVANCED] (Phala) Build the First Confidential Contract](https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/2/100023947)
 
 TODO
