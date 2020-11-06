@@ -117,13 +117,15 @@ TODO
 
 ---
 
-### Intermediate (0/5)
+### Intermediate (1/5)
 
 ---
 
 #### [[INTERMEDIATE] (Plasm) Deploying An Auction Solidity Contract on Plasm Network](https://gitcoin.co/issue/staketechnologies/hello-world-by-polkadot/5/100023959)
 
-TODO
+https://youtu.be/--edfFEwaqw
+
+*NOTE: I was able to deploy and end the auuction, but not bid. This was a Rexmix issue. NOT a Plasm issue :grin:*
 
 #### [[INTERMEDIATE] (Acala) Enable NFT Support](https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/1/100023951)
 
