@@ -117,7 +117,7 @@ TODO
 
 ---
 
-### Intermediate (1/5)
+### Intermediate (2/5)
 
 ---
 
@@ -141,7 +141,7 @@ TODO
 
 #### [[INTERMEDIATE] (Moonbeam) Using Remix and MetaMask on Moonbeam](https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/1/100023952)
 
-TODO
+https://gist.github.com/NukeManDan/d9b260e493af15e62f947a91d503d829
 
 ---
 
