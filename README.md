@@ -139,7 +139,7 @@ TODO
 
 https://gist.github.com/NukeManDan/23d2ad561629dc34b171965884667419
 
-#### [[INTERMEDIATE] (Moonbeam) Using Remix and MetaMask on Moonbeam](https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/1/100023952)
+#### [[INTERMEDIATE] (Moonbeam) Using Remix and MetaMask on Moonbeam](https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/3/100023962)
 
 https://gist.github.com/NukeManDan/d9b260e493af15e62f947a91d503d829
 
