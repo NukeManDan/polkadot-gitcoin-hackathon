@@ -117,7 +117,7 @@ TODO
 
 ---
 
-### Intermediate (2/5)
+### Intermediate (3/5)
 
 ---
 
@@ -137,7 +137,7 @@ TODO
 
 #### [[INTERMEDIATE] (Moonbeam) Deploy on Moonbase Alpha using Truffle](https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/1/100023953)
 
-TODO 
+https://gist.github.com/NukeManDan/23d2ad561629dc34b171965884667419
 
 #### [[INTERMEDIATE] (Moonbeam) Using Remix and MetaMask on Moonbeam](https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/1/100023952)
 
