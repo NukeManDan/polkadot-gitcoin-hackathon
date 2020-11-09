@@ -129,7 +129,7 @@ https://youtu.be/--edfFEwaqw
 
 #### [[INTERMEDIATE] (Acala) Enable NFT Support](https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/1/100023951)
 
-TODO
+https://gist.github.com/NukeManDan/a0f9d6b67a9dd0ac2be7bbbb25a5f136
 
 #### [[INTERMEDIATE] (Acala) Enable Multi-Currency Support](https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/2/100023952)
 
