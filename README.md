@@ -7,6 +7,8 @@
 > KSM: `E5kZc3mjCGGUvherrnM5XELPfdSE6wZAXrVu5EshUX6x7NC`
 
 
+### >>> ***Total Completed `18/24`*** <<<
+
 ## Polkadot Challenges
 
 ---
@@ -72,19 +74,15 @@ https://gist.github.com/NukeManDan/a8578dbf85784e4c723dde5ebe9ef0df
 
 ---
 
-### Advanced (0/5)
+### Advanced (0/4)
 
 ---
 
 #### [[ADVANCED CHALLENGE] Smart contracts - Build a charity raffle](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/3/100023929)
 
-*INVITED* TODO, started work
+*INVITED* TODO
 
 #### [[ADVANCED CHALLENGE] Build a dApp](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/2/100023928)
-
-TODO
-
-#### [[ADVANCED CHALLENGE] Smart contracts - Build a charity raffle](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/3/100023929)
 
 TODO
 
@@ -125,7 +123,9 @@ TODO
 
 https://youtu.be/--edfFEwaqw
 
-*NOTE: I was able to deploy and end the auuction, but not bid. This was a Rexmix issue. NOT a Plasm issue :grin:*
+*NOTE: I was able to deploy and end the auction, but not bid. This was a Rexmix issue, I needed to SET THE VALUE of the transaction to bid! :sob:
+
+NOT a Plasm issue :grin:*
 
 #### [[INTERMEDIATE] (Acala) Enable NFT Support](https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/1/100023951)
 
