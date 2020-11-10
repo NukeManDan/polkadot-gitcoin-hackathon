@@ -117,7 +117,7 @@ TODO
 
 ---
 
-### Intermediate (3/5)
+### Intermediate (5/5)
 
 ---
 
@@ -133,7 +133,7 @@ https://gist.github.com/NukeManDan/a0f9d6b67a9dd0ac2be7bbbb25a5f136
 
 #### [[INTERMEDIATE] (Acala) Enable Multi-Currency Support](https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/2/100023952)
 
-TODO
+https://github.com/NukeManDan/substrate-node-template/tree/orml-token
 
 #### [[INTERMEDIATE] (Moonbeam) Deploy on Moonbase Alpha using Truffle](https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/1/100023953)
 
