@@ -6,16 +6,15 @@
 >
 > KSM: `E5kZc3mjCGGUvherrnM5XELPfdSE6wZAXrVu5EshUX6x7NC`
 
-
-### >>> ***Total Completed `18/24`*** <<<
-
 ## Polkadot Challenges
 
 ---
 
 #### [EXTRA PRIZE] Complete 18 or more challenges - 150 DOT for the first 50 valid submissions
 
-See Below for all completed :grin: :point_down:
+##### >>> ***Total Completed `19/24`*** <<<
+
+**See Below for all completed :grin: :point_down:**
 
 ---
 
@@ -110,7 +109,7 @@ https://gist.github.com/NukeManDan/9a4ad042ab4b22661184c47c18edb76e
 
 #### [[BEGINNER] (Phala) Build and Run a Local Phala Network](https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/1/100023945)
 
-TODO
+https://gist.github.com/NukeManDan/cf521a8d98f271b4ba512212daaa29dc
 
 
 ---
